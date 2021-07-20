@@ -1,4 +1,4 @@
-# File_Finder
+# File-Finder
 Recursively finds the closest file name you defined.
 ### Usage
 
