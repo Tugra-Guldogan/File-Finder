@@ -2,4 +2,4 @@
 Recursively finds the closest filename you defined.
 ### Usage
 
-[example](./example.js)
+[Example](./example.js)
