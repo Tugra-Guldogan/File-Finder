@@ -1,0 +1,19 @@
+{
+  "name": "find-what",
+  "version": "0.1.0",
+  "description": "recursively find the closest filename you defined",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "module",
+    "find"
+  ],
+  "author": "monkindey",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "moquire": "^1.5.5"
+  }
+}
